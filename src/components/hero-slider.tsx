@@ -34,9 +34,11 @@ export function HeroSlider() {
         loop: true,
       }}
     >
-      <CarouselContent>
+      {/* Ensure the container hides excess slides to prevent gaps */}
+      <CarouselContent className="overflow-hidden">
         {heroImages.map((image, index) => (
-          <CarouselItem key={image.id}>
+          /* Set h-full here to make sure the item takes the full height of the carousel container */
+          <CarouselItem key={image.id} className="basis-full h-full">
             <div className="relative w-full h-full">
               <Image
                 src={image.imageUrl}

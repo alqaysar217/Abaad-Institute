@@ -9,7 +9,7 @@
     {
       "id": "hero-1",
       "description": "A classroom presentation scene.",
-      "imageUrl": "/hero/1.png",
+      "imageUrl": "/hero/3.png",
       "imageHint": "classroom presentation"
     },
     {
@@ -21,9 +21,11 @@
     {
       "id": "hero-3",
       "description": "A training hall with attendees",
-      "imageUrl": "/hero/3.png",
+      "imageUrl": "/hero/1.png",
       "imageHint": "training hall"
     },
+
+
     {
       "id": "gallery-1",
       "description": "Students collaborating in a workshop",
@@ -72,6 +74,9 @@
       "imageUrl": "/gallery/8.png",
       "imageHint": "modern corridor"
     },
+
+
+
     {
       "id": "course-python-basics",
       "description": "Image for python basics course",
@@ -264,6 +269,9 @@
       "imageUrl": "/cources/18.png",
       "imageHint": "marketing strategy"
     },
+
+
+
     {
       "id": "trainer-1",
       "description": "Portrait of a male doctor or medical professional.",
@@ -343,6 +351,9 @@
       "imageUrl": "/trainer/17.png",
       "imageHint": "male artist"
     },
+
+
+
     {
       "id": "testimonial-1",
       "description": "Portrait of a happy male student",
@@ -379,6 +390,10 @@
       "imageUrl": "/testimonial/6.png",
       "imageHint": "design student"
     },
+
+
+
+
     {
       "id": "book-python",
       "description": "Cover of a Python programming book",

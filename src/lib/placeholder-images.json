@@ -1,0 +1,477 @@
+{
+  "placeholderImages": [
+    {
+      "id": "abaad-logo",
+      "description": "The official logo for Abaad Institute.",
+      "imageUrl": "/logo.png",
+      "imageHint": "abstract logo"
+    },
+    {
+      "id": "hero-1",
+      "description": "A classroom presentation scene.",
+      "imageUrl": "/hero/1.png",
+      "imageHint": "classroom presentation"
+    },
+    {
+      "id": "hero-2",
+      "description": "Students collaborating in a workshop.",
+      "imageUrl": "/hero/2.png",
+      "imageHint": "students workshop"
+    },
+    {
+      "id": "hero-3",
+      "description": "A training hall with attendees",
+      "imageUrl": "/hero/3.png",
+      "imageHint": "training hall"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Students collaborating in a workshop",
+      "imageUrl": "/gallery/1.png",
+      "imageHint": "students workshop"
+    },
+    {
+      "id": "gallery-2",
+      "description": "A training hall with attendees",
+      "imageUrl": "/gallery/2.png",
+      "imageHint": "training hall"
+    },
+    {
+      "id": "gallery-3",
+      "description": "A close-up of a student learning",
+      "imageUrl": "/gallery/3.png",
+      "imageHint": "student learning"
+    },
+    {
+      "id": "gallery-4",
+      "description": "An instructor teaching a class",
+      "imageUrl": "/gallery/4.png",
+      "imageHint": "instructor teaching"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Students in a computer lab",
+      "imageUrl": "/gallery/5.png",
+      "imageHint": "computer lab"
+    },
+    {
+      "id": "gallery-6",
+      "description": "A library or study area in the institute",
+      "imageUrl": "/gallery/6.png",
+      "imageHint": "institute library"
+    },
+    {
+      "id": "gallery-7",
+      "description": "A group of students smiling and looking at the camera",
+      "imageUrl": "/gallery/7.png",
+      "imageHint": "happy students"
+    },
+    {
+      "id": "gallery-8",
+      "description": "A modern and well-lit corridor of the institute",
+      "imageUrl": "/gallery/8.png",
+      "imageHint": "modern corridor"
+    },
+    {
+      "id": "course-python-basics",
+      "description": "Image for python basics course",
+      "imageUrl": "/cources/1.png",
+      "imageHint": "python code"
+    },
+    {
+      "id": "course-csharp-console",
+      "description": "Image for c-sharp console course",
+      "imageUrl": "/cources/6.png",
+      "imageHint": "c-sharp code"
+    },
+    {
+      "id": "course-sql-intro",
+      "description": "Image for sql intro course",
+      "imageUrl": "/cources/4.png",
+      "imageHint": "database server"
+    },
+    {
+      "id": "course-winforms",
+      "description": "Image for windows forms course",
+      "imageUrl": "/cources/2.png",
+      "imageHint": "desktop application"
+    },
+    {
+      "id": "course-linux",
+      "description": "Image for linux course",
+      "imageUrl": "/cources/7.png",
+      "imageHint": "linux terminal"
+    },
+    {
+      "id": "course-ms-project",
+      "description": "Image for ms project course",
+      "imageUrl": "/cources/9.png",
+      "imageHint": "project plan"
+    },
+    {
+      "id": "course-cpp-console",
+      "description": "Image for cpp console course",
+      "imageUrl": "/cources/8.png",
+      "imageHint": "c++ code"
+    },
+    {
+      "id": "course-html-css",
+      "description": "Image for html css course",
+      "imageUrl": "/cources/3.png",
+      "imageHint": "web design"
+    },
+    {
+      "id": "course-first-aid",
+      "description": "Image for first aid course",
+      "imageUrl": "/cources/11.png",
+      "imageHint": "first aid"
+    },
+    {
+      "id": "course-medical-program",
+      "description": "Image for medical program course",
+      "imageUrl": "/cources/10.png",
+      "imageHint": "medical team"
+    },
+    {
+      "id": "course-medical-terminology",
+      "description": "Image for medical terminology course",
+      "imageUrl": "/cources/12.png",
+      "imageHint": "medical dictionary"
+    },
+    {
+      "id": "course-content-creation",
+      "description": "Image for content creation course",
+      "imageUrl": "/cources/16.png",
+      "imageHint": "content creation"
+    },
+    {
+      "id": "course-content-marketing",
+      "description": "Image for content marketing course",
+      "imageUrl": "/cources/17.png",
+      "imageHint": "digital marketing"
+    },
+    {
+      "id": "course-autocad",
+      "description": "Image for autocad course",
+      "imageUrl": "/cources/14.png",
+      "imageHint": "architecture blueprint"
+    },
+    {
+      "id": "course-revit-lumion",
+      "description": "Image for revit lumion course",
+      "imageUrl": "/cources/13.png",
+      "imageHint": "3d render"
+    },
+    {
+      "id": "course-interior-design",
+      "description": "Image for interior design course",
+      "imageUrl": "/cources/20.png",
+      "imageHint": "interior design"
+    },
+    {
+      "id": "course-photoshop",
+      "description": "Image for photoshop course",
+      "imageUrl": "/cources/23.png",
+      "imageHint": "photo editing"
+    },
+    {
+      "id": "course-graphic-design-diploma",
+      "description": "Image for graphic design diploma",
+      "imageUrl": "/cources/21.png",
+      "imageHint": "graphic design"
+    },
+    {
+      "id": "course-graphics-diploma",
+      "description": "Image for graphics diploma",
+      "imageUrl": "/cources/19.png",
+      "imageHint": "digital art"
+    },
+    {
+      "id": "course-ai-design",
+      "description": "Image for ai design course",
+      "imageUrl": "/cources/20.png",
+      "imageHint": "ai art"
+    },
+    {
+      "id": "course-photography-editing",
+      "description": "Image for photography editing course",
+      "imageUrl": "/cources/24.png",
+      "imageHint": "camera lens"
+    },
+    {
+      "id": "course-mobile-photography",
+      "description": "Image for mobile photography course",
+      "imageUrl": "/cources/22.png",
+      "imageHint": "phone camera"
+    },
+    {
+      "id": "course-cyber-security",
+      "description": "Image for cyber security course",
+      "imageUrl": "/cources/25.png",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "course-mobile-dev",
+      "description": "Image for mobile dev course",
+      "imageUrl": "/cources/5.png",
+      "imageHint": "mobile apps"
+    },
+    {
+      "id": "course-secretarial",
+      "description": "Image for secretarial course",
+      "imageUrl": "/cources/32.png",
+      "imageHint": "office work"
+    },
+    {
+      "id": "course-customer-service",
+      "description": "Image for customer service course",
+      "imageUrl": "/cources/28.png",
+      "imageHint": "customer support"
+    },
+    {
+      "id": "course-life-coach",
+      "description": "Image for life coach course",
+      "imageUrl": "/cources/30.png",
+      "imageHint": "personal growth"
+    },
+    {
+      "id": "course-creative-thinking",
+      "description": "Image for creative thinking course",
+      "imageUrl": "/cources/27.png",
+      "imageHint": "idea lightbulb"
+    },
+    {
+      "id": "course-computer-diploma",
+      "description": "Image for computer diploma course",
+      "imageUrl": "/cources/26.png",
+      "imageHint": "computer lab"
+    },
+    {
+      "id": "course-mayo-ketchup",
+      "description": "Image for mayo ketchup course",
+      "imageUrl": "/cources/29.png",
+      "imageHint": "cooking class"
+    },
+    {
+      "id": "course-hairdressing",
+      "description": "Image for hairdressing course",
+      "imageUrl": "/cources/31.png",
+      "imageHint": "hair salon"
+    },
+    {
+      "id": "course-marketing-360",
+      "description": "Image for marketing 360 course",
+      "imageUrl": "/cources/18.png",
+      "imageHint": "marketing strategy"
+    },
+    {
+      "id": "trainer-1",
+      "description": "Portrait of a male doctor or medical professional.",
+      "imageUrl": "/trainer/2.png",
+      "imageHint": "male doctor"
+    },
+    {
+      "id": "trainer-2",
+      "description": "Portrait of a confident female professional giving a presentation.",
+      "imageUrl": "/trainer/9.png",
+      "imageHint": "coach woman"
+    },
+    {
+      "id": "trainer-3",
+      "description": "Portrait of a male professional teacher in a library.",
+      "imageUrl": "/trainer/11.png",
+      "imageHint": "male teacher"
+    },
+   
+    {
+      "id": "trainer-4",
+      "description": "Portrait of a photographer.",
+      "imageUrl": "/trainer/13.png",
+      "imageHint": "photographer man"
+    }, 
+    {
+      "id": "trainer-5",
+      "description": "Portrait of a photographer.",
+      "imageUrl": "/trainer/15.png",
+      "imageHint": "photographer man"
+    },
+    {
+      "id": "trainer-6",
+      "description": "Portrait of a female filmmaker.",
+      "imageUrl": "/trainer/7.png",
+      "imageHint": "female filmmaker"
+    },
+    {
+      "id": "trainer-7",
+      "description": "Portrait of a professional man in a suit.",
+      "imageUrl": "/trainer/3.png",
+      "imageHint": "marketing expert"
+    },
+    {
+      "id": "trainer-8",
+      "description": "Portrait of a professional man in a suit.",
+      "imageUrl": "/trainer/4.png",
+      "imageHint": "marketing expert"
+    },
+    {
+      "id": "trainer-9",
+      "description": "Portrait of a male software developer.",
+      "imageUrl": "/trainer/1.png",
+      "imageHint": "male developer"
+    },
+    {
+      "id": "trainer-10",
+      "description": "Portrait of a male graphic designer.",
+      "imageUrl": "/trainer/5.png",
+      "imageHint": "graphic designer"
+    },
+    {
+      "id": "trainer-11",
+      "description": "Portrait of a male architect.",
+      "imageUrl": "/trainer/14.png",
+      "imageHint": "male architect"
+    },
+    {
+      "id": "trainer-12",
+      "description": "Portrait of a female beautician.",
+      "imageUrl": "/trainer/10.png",
+      "imageHint": "female beautician"
+    },
+    {
+      "id": "trainer-13",
+      "description": "Portrait of a male graphic artist.",
+      "imageUrl": "/trainer/17.png",
+      "imageHint": "male artist"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a happy male student",
+      "imageUrl": "/testimonial/1.png",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a happy female student",
+      "imageUrl": "/testimonial/4.png",
+      "imageHint": "student smiling"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of a happy student",
+      "imageUrl": "/testimonial/2.png",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Portrait of a professional woman",
+      "imageUrl": "/testimonial/5.png",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Portrait of a young man smiling",
+      "imageUrl": "/testimonial/3.png",
+      "imageHint": "young man"
+    },
+    {
+      "id": "testimonial-6",
+      "description": "Portrait of a female design student",
+      "imageUrl": "/testimonial/6.png",
+      "imageHint": "design student"
+    },
+    {
+      "id": "book-python",
+      "description": "Cover of a Python programming book",
+      "imageUrl": "/books/book-1.jpg",
+      "imageHint": "python book"
+    },
+    {
+      "id": "book-sql",
+      "description": "Cover of a SQL database book",
+      "imageUrl": "/books/book-2.jpg",
+      "imageHint": "database book"
+    },
+    {
+      "id": "book-winforms",
+      "description": "Cover of a visual programming book",
+      "imageUrl": "/books/book-3.jpg",
+      "imageHint": "ui design"
+    },
+    {
+      "id": "book-csharp",
+      "description": "Cover of a C# programming book",
+      "imageUrl": "/books/book-4.jpg",
+      "imageHint": "programming book"
+    },
+    {
+      "id": "book-english-1",
+      "description": "Cover of a beginner's English book",
+      "imageUrl": "/books/book-5.jpg",
+      "imageHint": "english book"
+    },
+    {
+      "id": "book-english-2",
+      "description": "Cover of an intermediate English language book",
+      "imageUrl": "/books/book-6.jpg",
+      "imageHint": "english book"
+    },
+    {
+      "id": "book-english-3",
+      "description": "Cover of a comprehensive English textbook",
+      "imageUrl": "/books/book-7.jpg",
+      "imageHint": "open book"
+    },
+    {
+      "id": "book-english-4",
+      "description": "Cover of an English conversation guide",
+      "imageUrl": "/books/book-8.jpg",
+      "imageHint": "conversation book"
+    },
+    {
+      "id": "about-hero",
+      "description": "A wide shot of the institute's modern building or reception",
+      "imageUrl": "/hero/5.png",
+      "imageHint": "modern building"
+    },
+
+    
+    
+
+    {
+      "id": "news-1",
+      "description": "Image for a news article about an event",
+      "imageUrl": "/news/3.png",
+      "imageHint": "event celebration"
+    },
+    {
+      "id": "news-2",
+      "description": "Image for a news article about a new course",
+      "imageUrl": "/news/1.png",
+      "imageHint": "announcement poster"
+    },
+    {
+      "id": "news-3",
+      "description": "Image for a news article about a special offer",
+      "imageUrl": "/news/2.png",
+      "imageHint": "special offer"
+    },
+    {
+      "id": "news-4",
+      "description": "Image for a student project showcase",
+      "imageUrl": "/news/4.png",
+      "imageHint": "student project"
+    },
+    {
+      "id": "news-5",
+      "description": "Image for a seminar or evening event",
+      "imageUrl": "/news/5.png",
+      "imageHint": "seminar talk"
+    },
+    {
+      "id": "news-6",
+      "description": "Image for a course conclusion or graduation",
+      "imageUrl": "/news/6.png",
+      "imageHint": "certificate success"
+    }
+  ]
+}
